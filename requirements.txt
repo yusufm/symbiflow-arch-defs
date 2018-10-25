@@ -4,3 +4,4 @@ lxml
 hdlparse
 symbolator
 pycairo
+pygobject
