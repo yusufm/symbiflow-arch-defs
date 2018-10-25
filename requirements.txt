@@ -3,3 +3,4 @@ virtualenv
 lxml
 hdlparse
 symbolator
+cairo
