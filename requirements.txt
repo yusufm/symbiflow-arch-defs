@@ -4,4 +4,3 @@ lxml
 hdlparse
 symbolator
 pycairo==1.15.4
-pygobject
