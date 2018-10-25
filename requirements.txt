@@ -2,3 +2,4 @@ pip
 virtualenv
 lxml
 hdlparse
+symbolator
