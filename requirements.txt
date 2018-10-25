@@ -3,5 +3,5 @@ virtualenv
 lxml
 hdlparse
 symbolator
-pycairo
-pygobject
+pycairo==1.15.4
+pygobject==3.26.1
